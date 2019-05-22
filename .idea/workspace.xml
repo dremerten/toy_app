@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c652d935-f7ad-4da8-828a-06e2d6a29ed4" name="Default Changelist" comment="" />
+    <list default="true" id="c652d935-f7ad-4da8-828a-06e2d6a29ed4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/config/puma.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/puma.rb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,9 +60,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Procfile">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="38" selection-start-column="38" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/puma.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -90,6 +105,8 @@
         <option value="$PROJECT_DIR$/app/models/user.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/models/micropost.rb" />
+        <option value="$PROJECT_DIR$/app/Procfile" />
+        <option value="$PROJECT_DIR$/config/puma.rb" />
       </list>
     </option>
   </component>
@@ -116,6 +133,11 @@
               <item name="toy_app" type="b2602c69:ProjectViewProjectNode" />
               <item name="toy_app" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="toy_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="toy_app" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -153,24 +175,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558552212251</updated>
-      <workItem from="1558552214259" duration="5084000" />
+      <workItem from="1558552214259" duration="5486000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5084000" />
+    <option name="totallyTimeSpent" value="5486000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4240" y="23" width="1952" height="1177" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973822" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973822" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3299539" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3299539" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -236,7 +257,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Procfile">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/puma.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
